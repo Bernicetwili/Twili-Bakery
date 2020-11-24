@@ -1,0 +1,32 @@
+
+ body{
+     background-image:url('./pictures/miti-qYreP9QOdrk-unsplash.jpg');
+     background-size:2000px 1500px;
+     background-repeat:no-repeat;
+ }
+ nav {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+ }
+ nav>ul>li>a {
+    padding: 18px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    color:yellow;
+    }
+    h1{
+       color:red;
+    }
+    *{
+       text-align: center;
+    }
+    p{
+       color:white;
+    }
+    h2{
+       color:brown;
+    }
